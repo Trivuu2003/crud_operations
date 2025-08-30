@@ -1,0 +1,9 @@
+DATABASE_URL=postgresql+psycopg2://postgres:postgres@localhost:5432/appdb
+JWT_SECRET=change_me
+JWT_EXPIRE_MINUTES=15
+WEB_ORIGIN=http://localhost:5173
+ADMIN_EMAILS=admin@example.com
+USE_REDIS=false
+REDIS_URL=redis://localhost:6379/0
+
+
