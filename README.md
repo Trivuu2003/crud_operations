@@ -1,4 +1,4 @@
-## Production Runbook — Yash Full-Stack App
+## Production Runbook — Triveni Full-Stack App
 
 End-to-end guide to deploy a production-ready stack:
 
@@ -307,3 +307,4 @@ make logs
 - PUT `/api/users/me`
 - DELETE `/api/users/me`
 - GET `/api/users` (admin list via `ADMIN_EMAILS`)
+
